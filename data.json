@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T16:54:44.996126",
+  "timestamp": "2025-12-12T17:11:45.025390",
   "games": [
     {
       "gameId": "",
@@ -502,12 +502,12 @@
         "teamAbbrev": "",
         "teamLogo": "https://public-ds.static.dobbersports.com/team-logo/dark/.png",
         "goalie": {
-          "id": "61c1caa38a12aa09df3d4406",
-          "name": "Tristan Jarry",
+          "id": "61c1caa38a12aa09df3d45ac",
+          "name": "Stuart Skinner",
           "number": 0,
           "confirmed": true,
           "status": "Confirmed",
-          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/61c1caa38a12aa09df3d4406.png",
+          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/61c1caa38a12aa09df3d45ac.png",
           "stats": {
             "wins": 0,
             "losses": 0,
