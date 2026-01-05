@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T21:56:56.236048",
+  "timestamp": "2026-01-05T22:17:43.803034",
   "games": [
     {
       "gameId": "",
@@ -117,12 +117,12 @@
         "teamAbbrev": "",
         "teamLogo": "https://public-ds.static.dobbersports.com/team-logo/dark/.png",
         "goalie": {
-          "id": "61c1caa38a12aa09df3d45f0",
-          "name": "Jake Oettinger",
+          "id": "61c1caa38a12aa09df3d440f",
+          "name": "Casey DeSmith",
           "number": 0,
           "confirmed": true,
           "status": "Confirmed",
-          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/61c1caa38a12aa09df3d45f0.png",
+          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/61c1caa38a12aa09df3d440f.png",
           "stats": {
             "wins": 0,
             "losses": 0,
