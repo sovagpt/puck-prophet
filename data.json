@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T00:44:03.775295",
+  "timestamp": "2026-01-13T02:33:48.566500",
   "games": [
     {
       "gameId": "",
@@ -677,12 +677,12 @@
         "teamAbbrev": "",
         "teamLogo": "https://public-ds.static.dobbersports.com/team-logo/dark/.png",
         "goalie": {
-          "id": "61c1caa38a12aa09df3d4610",
-          "name": "James Reimer",
+          "id": "628363d12bacff6a9f8b1e02",
+          "name": "Hunter Shepard",
           "number": 0,
           "confirmed": true,
           "status": "Confirmed",
-          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/61c1caa38a12aa09df3d4610.png",
+          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/628363d12bacff6a9f8b1e02.png",
           "stats": {
             "wins": 0,
             "losses": 0,
