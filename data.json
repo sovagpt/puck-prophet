@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-26T00:53:20.405018",
+  "timestamp": "2026-01-26T03:05:52.697068",
   "games": [
     {
       "gameId": "",
@@ -677,12 +677,12 @@
         "teamAbbrev": "",
         "teamLogo": "https://public-ds.static.dobbersports.com/team-logo/dark/.png",
         "goalie": {
-          "id": "61c1caa38a12aa09df3d4610",
-          "name": "James Reimer",
+          "id": "61c1caa38a12aa09df3d441b",
+          "name": "Linus Ullmark",
           "number": 0,
           "confirmed": true,
           "status": "Confirmed",
-          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/61c1caa38a12aa09df3d4610.png",
+          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/61c1caa38a12aa09df3d441b.png",
           "stats": {
             "wins": 0,
             "losses": 0,
